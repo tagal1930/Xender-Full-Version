@@ -244,3 +244,6 @@ This repository serves as the official landing page for Xender. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xender today!**
+
+---
+**Last updated:** 2026-09-11 15:27:16 UTC
